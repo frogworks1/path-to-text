@@ -1,1 +1,1 @@
-dir "C:\Users\tkelly\Desktop\github\frogworks1.github.io\path-to-text" > "C:\Users\tkelly\Desktop\github\frogworks1.github.io\path-to-text\output.txt" /b /o
+dir "O:\Biostatistics\SGN-35\sg035-0003\ASH2015abstract\outputs\tlfs\testing\*.sas" > "C:\Users\tkelly\Desktop\github\frogworks1.github.io\path-to-text\output.txt" /b /o
